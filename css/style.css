@@ -9,7 +9,7 @@
 }
 .col-12{
     background-color: white;
-    border: 1px solid black;
+    
 }
 header{
     display: flex;
@@ -68,3 +68,18 @@ button{
 #cont_button{
     background-color: aquamarine;
 }
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 90px;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+}
+i{
+    font-size: 30px;
+    padding: 15px;
+}
+
+
